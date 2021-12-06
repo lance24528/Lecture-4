@@ -6,8 +6,8 @@
 #include <array>
 #include <math.h>
 using namespace std;
-
-int main() {// Possible Data Types
+// Possible Data Types
+int main() {
 
 	int firstNumber = 1;
 	bool iCanCode = true;
@@ -20,7 +20,8 @@ int main() {// Possible Data Types
 	return 0;
 
 }
-int main() {//Division Fix
+//Division Fix	
+int main() {
 
 	double numberOne = 50;
 	double numberTwo = 7;
@@ -29,7 +30,8 @@ int main() {//Division Fix
 	return 0;
 
 }  
-int main() {//Untidy Code
+//Untidy Code	
+int main() {
 	
 	int number = 6;
 	cout << "This is an untidy code.\n\n";
@@ -41,7 +43,8 @@ int main() {//Untidy Code
 	return 0;
 
 }  
-int main() {//USB Shopper
+//USB Shopper
+int main() {
 	
 	int money = 50; int usbCost = 6; 
 	int usbStick = money / usbCost; int change = money % usbCost * 100;
